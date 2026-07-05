@@ -1,0 +1,6 @@
+@Myitian.ElysiaDAM_HostAddress = http://localhost:5038
+
+GET {{Myitian.ElysiaDAM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

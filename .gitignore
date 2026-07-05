@@ -427,3 +427,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+Myitian.ElysiaDAM.Storage/objects
+Myitian.ElysiaDAM.Storage/objects/**/*

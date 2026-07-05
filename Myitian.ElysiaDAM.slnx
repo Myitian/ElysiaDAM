@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Myitian.ElysiaDAM.Storage/Myitian.ElysiaDAM.Storage.csproj" />
+  <Project Path="Myitian.ElysiaDAM.CoreService/Myitian.ElysiaDAM.CoreService.csproj" />
+</Solution>
